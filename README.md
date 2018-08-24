@@ -36,5 +36,5 @@ npm install pm2 -g
 
 2. 启动服务
 ``` bash
-pm2 start 
+pm2 start pm2.json
 ```
