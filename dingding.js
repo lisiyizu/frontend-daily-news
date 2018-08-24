@@ -11,8 +11,7 @@ exports.send = function(links) {
     feedCard: {
       links: links
     },
-    msgtype: 'feedCard',
-    hideAvatar: 0
+    msgtype: 'feedCard'
   });
 
   option.headers = {
