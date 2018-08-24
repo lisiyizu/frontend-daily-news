@@ -1,5 +1,11 @@
 # 前端日报
 
+## 一个小工具，定时爬取前端文章，并发送到钉钉群
+Github:[frontend-daily-news](https://github.com/frontendnote/frontend-daily-news)
+
+## 效果演示
+<img width="" src="http://www.frontendnote.com/images/WX20180824-152253.png" />
+
 ## How to use?
 
 1. [手动安装puppeteer依赖的chromium](http://www.frontendnote.com/2018/08/10/linux-an-zhuang-puppeteer/)
